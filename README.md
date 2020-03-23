@@ -21,7 +21,25 @@ Links those are informative for me !
    - [C# Interface Implementation relationship is just “Can-Do” Relationship?](https://stackoverflow.com/questions/255644/c-sharp-interface-implementation-relationship-is-just-can-do-relationship)
 
 3. Covariant Return Type Error
-   - [CA1061: Do not hide base class methods](https://docs.microsoft.com/en-us/visualstudio/code-quality/ca1061?view=vs-2019)
-   - [Framework Design Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/)
-   - [Covariance and Contravariance in Generics](https://docs.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)
-   - [C# Futures: Covariant Return Types](https://www.infoq.com/news/2020/01/CSharp-Covariant-Return-Types/)
+   - Docs
+     - [CA1061: Do not hide base class methods](https://docs.microsoft.com/en-us/visualstudio/code-quality/ca1061?view=vs-2019)
+     - [Framework Design Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/)
+     - [Covariance and Contravariance in Generics](https://docs.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)
+     - [C# Futures: Covariant Return Types](https://www.infoq.com/news/2020/01/CSharp-Covariant-Return-Types/)
+
+   - Github Issues
+     - [Proposal: support covariant return types #357](https://github.com/dotnet/roslyn/issues/357)
+     - [Champion "Covariant Return Types" #49](https://github.com/dotnet/csharplang/issues/49)
+     - [9.0 candidate](https://github.com/dotnet/csharplang/milestone/15)
+     
+   - [Hesam Kashefi video](https://www.youtube.com/watch?v=LsKIhuRJbtk&feature=youtu.be)
+      
+   - Stackoverflow Questions
+     - [Why was IEquatable T not made contravariant in T for C# 4.0?](https://stackoverflow.com/questions/3289440/why-was-iequatable-t-not-made-contravariant-in-t-for-c-sharp-4-0)
+     - [“Interface not implemented” when Returning Derived Type](https://stackoverflow.com/questions/1121283/interface-not-implemented-when-returning-derived-type)
+     - [Does C# support return type covariance?](https://stackoverflow.com/questions/5709034/does-c-sharp-support-return-type-covariance)
+     - [Why C# doesn't allow inheritance of return type when implementing an Interface](https://stackoverflow.com/questions/1319663/why-c-sharp-doesnt-allow-inheritance-of-return-type-when-implementing-an-interf)
+     - [The return type of the members on an Interface Implementation must match exactly the interface definition?](https://stackoverflow.com/questions/7996127/the-return-type-of-the-members-on-an-interface-implementation-must-match-exactly)
+     - [C# return type covariance and Liskov substitution principle](https://stackoverflow.com/questions/43892239/c-sharp-return-type-covariance-and-liskov-substitution-principle)
+     - [What do you need Covariant Return Types for?](https://softwareengineering.stackexchange.com/questions/368872/what-do-you-need-covariant-return-types-for)
+     - [C# covariant return types utilizing generics](https://stackoverflow.com/questions/4348760/c-sharp-covariant-return-types-utilizing-generics)
