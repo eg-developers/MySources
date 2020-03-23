@@ -50,3 +50,17 @@ Links those are informative for me !
    - [Generic Equality Comparer for type T](https://gist.github.com/parsalotfy/3209ef2e71255773342b99cab9700f32)
    - [VSCode launch configuration for building and testing csharp code by pressing F5](https://gist.github.com/parsalotfy/10a466c0681fc14bdd86debee7e9789d)
    - [Example .gitignore file I use for C# projects](https://gist.github.com/kmorcinek/2710267)
+   
+   
+5. Closures
+   - [Jon Skeet](https://csharpindepth.com/Articles/Closures)
+   - [Erik Lippert](https://ericlippert.com/2009/11/12/closing-over-the-loop-variable-considered-harmful-part-one/)
+   - StackOverflow
+     - [Captured variable in a loop in C#](https://stackoverflow.com/questions/271440/captured-variable-in-a-loop-in-c-sharp)
+     - [Captured Closure (Loop Variable) in C# 5.0](https://stackoverflow.com/questions/16264289/captured-closure-loop-variable-in-c-sharp-5-0)
+     - [Reference type variable recycling - is a new reference variable created every loop in a loop if declared therein?](https://stackoverflow.com/questions/7383016/reference-type-variable-recycling-is-a-new-reference-variable-created-every-lo)
+     - [Is there a reason for C#'s reuse of the variable in a foreach?](https://stackoverflow.com/questions/8898925/is-there-a-reason-for-cs-reuse-of-the-variable-in-a-foreach)
+     - [Is it better coding practice to define variables outside a foreach even though more verbose?](https://stackoverflow.com/questions/2388619/is-it-better-coding-practice-to-define-variables-outside-a-foreach-even-though-m)
+     - [What is a closure?](https://softwareengineering.stackexchange.com/questions/40454/what-is-a-closure)
+     - [What is a 'Closure'?](https://stackoverflow.com/questions/36636/what-is-a-closure)
+     - [Starting Tasks In foreach Loop Uses Value of Last Item](https://stackoverflow.com/questions/4684320/starting-tasks-in-foreach-loop-uses-value-of-last-item)
