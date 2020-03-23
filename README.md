@@ -19,3 +19,9 @@ Links those are informative for me !
    - [Overriding fields or properties in subclasses](https://stackoverflow.com/questions/326223/overriding-fields-or-properties-in-subclasses)
    - [Interface vs Abstract Class (general OO)](https://stackoverflow.com/questions/761194/interface-vs-abstract-class-general-oo)
    - [C# Interface Implementation relationship is just “Can-Do” Relationship?](https://stackoverflow.com/questions/255644/c-sharp-interface-implementation-relationship-is-just-can-do-relationship)
+
+3. Covariant Return Type Error
+   - [CA1061: Do not hide base class methods](https://docs.microsoft.com/en-us/visualstudio/code-quality/ca1061?view=vs-2019)
+   - [Framework Design Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/)
+   - [Covariance and Contravariance in Generics](https://docs.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)
+   - [C# Futures: Covariant Return Types](https://www.infoq.com/news/2020/01/CSharp-Covariant-Return-Types/)
