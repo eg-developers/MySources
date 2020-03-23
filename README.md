@@ -43,3 +43,10 @@ Links those are informative for me !
      - [C# return type covariance and Liskov substitution principle](https://stackoverflow.com/questions/43892239/c-sharp-return-type-covariance-and-liskov-substitution-principle)
      - [What do you need Covariant Return Types for?](https://softwareengineering.stackexchange.com/questions/368872/what-do-you-need-covariant-return-types-for)
      - [C# covariant return types utilizing generics](https://stackoverflow.com/questions/4348760/c-sharp-covariant-return-types-utilizing-generics)
+     
+     
+### 4. Gists
+   - [HtmlAgilityPack Encapsulator Example](https://github.com/zzzprojects/html-agility-pack/blob/master/src/Tests/HtmlAgilityPack.Tests.NetStandard2_0/EncapsulatorTests.cs)
+   - [Generic Equality Comparer for type T](https://gist.github.com/parsalotfy/3209ef2e71255773342b99cab9700f32)
+   - [VSCode launch configuration for building and testing csharp code by pressing F5](https://gist.github.com/parsalotfy/10a466c0681fc14bdd86debee7e9789d)
+   - [Example .gitignore file I use for C# projects](https://gist.github.com/kmorcinek/2710267)
