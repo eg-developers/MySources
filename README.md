@@ -52,7 +52,7 @@ Links those are informative for me !
    - [Example .gitignore file I use for C# projects](https://gist.github.com/kmorcinek/2710267)
    
    
-5. Closures
+### 5. Closures
    - [Jon Skeet](https://csharpindepth.com/Articles/Closures)
    - [Erik Lippert](https://ericlippert.com/2009/11/12/closing-over-the-loop-variable-considered-harmful-part-one/)
    - StackOverflow
