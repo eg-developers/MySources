@@ -64,3 +64,25 @@ Links those are informative for me !
      - [What is a closure?](https://softwareengineering.stackexchange.com/questions/40454/what-is-a-closure)
      - [What is a 'Closure'?](https://stackoverflow.com/questions/36636/what-is-a-closure)
      - [Starting Tasks In foreach Loop Uses Value of Last Item](https://stackoverflow.com/questions/4684320/starting-tasks-in-foreach-loop-uses-value-of-last-item)
+     
+### 6. Expression
+   - Microsoft Docs
+     - [Expressions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/expressions)
+     - [LambdaExpression](https://docs.microsoft.com/en-us/dotnet/api/system.linq.expressions.lambdaexpression?view=netframework-4.8)
+     - [Expression TDelegate](https://docs.microsoft.com/en-us/dotnet/api/system.linq.expressions.expression-1?view=netframework-4.8)
+     - [Expression Trees](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/)
+   - Other Docs
+     - [Geeks for Geeks](https://www.geeksforgeeks.org/expression-tree/) 
+     - Marc Gravell
+       - [Express yourself](https://blog.marcgravell.com/2008/10/express-yourself.html)
+       - [Future Expressions](https://blog.marcgravell.com/2008/11/future-expressions.html)
+   - Use Cases
+     - [Expression as a Compiler](https://www.infoq.com/articles/expression-compiler/)
+     - [Whats a good use case for .net 4.0 Expression Trees?](https://stackoverflow.com/questions/1532600/whats-a-good-use-case-for-net-4-0-expression-trees)
+     - [Practical use of expression trees](https://stackoverflow.com/questions/403088/practical-use-of-expression-trees)
+   - Comparison : Delegate, Lambada , Expression , Reflection
+     - [Faster Reflection using Expression Trees](http://geekswithblogs.net/Madman/archive/2008/06/27/faster-reflection-using-expression-trees.aspx) 
+     - [In C#, Is Expression API better than Reflection](https://stackoverflow.com/questions/4803272/in-c-is-expression-api-better-than-reflection)
+     - [Delegate.CreateDelegate vs DynamicMethod vs Expression](https://stackoverflow.com/questions/597819/delegate-createdelegate-vs-dynamicmethod-vs-expression)
+     - [Difference between expression lambda and statement lambda](https://stackoverflow.com/questions/17240642/difference-between-expression-lambda-and-statement-lambda)
+     - [Moving from reflection to expression-tree](https://stackoverflow.com/questions/35913495/moving-from-reflection-to-expression-tree)
